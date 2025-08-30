@@ -72,7 +72,7 @@ stages{
             }
             sh """
             cd /var/www/html/
-            jar -xvf Example 0.0.1-SNAPSHOT.war
+            jar -xvf Example-0.0.1-SNAPSHOT.war
             """
         }
     }
