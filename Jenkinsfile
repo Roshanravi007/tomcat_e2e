@@ -12,9 +12,6 @@ parameters {
 environment{
     NAME = "srikanth"
 }
-tools {
-  maven 'mymaven'
-}
 
 stages{
 
