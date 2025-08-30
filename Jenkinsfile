@@ -50,7 +50,7 @@ stages{
         }
         post {
         success {
-             dir("webapp/target/")
+             dir("target/")
             {
             stash name: "maven-build", includes: "*.war"
                  }
