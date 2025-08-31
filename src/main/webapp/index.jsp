@@ -59,7 +59,7 @@
 <body>
 <header>
     <h1>Welcome to DevOps Training Portal</h1>
-    <p>Learn Jenkins, Docker, Kubernetes, Ansible, and more!</p>
+    <p>Learn Jenkins, Docker, Kubernetes, Ansible with Srikanth Anumula!</p>
 </header>
 
 <nav>
@@ -84,7 +84,7 @@
 </div>
 
 <footer>
-    <p>&Srikanth Anumula; 2025 DevOps Training Portal | Powered by Jenkins & Tomcat</p>
+    <p>@Srikanth Anumula; 2025 DevOps Training Portal | Powered by Jenkins & Tomcat</p>
 </footer>
 </body>
 </html>
