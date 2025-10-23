@@ -1,6 +1,6 @@
 # Sample war application using maven 
 
-1. Navigate to the directory and run the below maven command to build the war file as "Testing making some changes 32332"
+1. Navigate to the directory and run the below maven command to build the war file as "Hello testing"
 ```
 $mvn clean verify
 
