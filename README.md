@@ -1,6 +1,6 @@
 # Sample war application using maven 
 
-1. Navigate to the directory and run the below maven command to build the war file as ldksjfskjflsdk
+1. Navigate to the directory and run the below maven command to build the war file as "Testing making some changes"
 ```
 $mvn clean verify
 
